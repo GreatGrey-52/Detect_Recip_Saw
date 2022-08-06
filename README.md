@@ -11,4 +11,4 @@ A couple of notes:
 -	The version included with this post makes progress to characterize the objective signal; false alarms may still occur (and collected) with this version
 -	Initial theories that looked for consistent events in the Objective Signal led to a high rate of false alarms; when I switched the approach to look for inconsistent events, the distinction between Other Signals and the Objective Signal became clearer
 
-Read more in the pdf.
+Read more in the pdf "Project Description."
