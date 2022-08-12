@@ -8,7 +8,7 @@ The Objective Signal of the project is from a battery-powered reciprocating saw 
 
 A couple of notes:
 -	The work by Velardo, Lys, gabemagee, GianlucaPaolocci, and others has been very helpful to explore this issue
--	The version included with this post makes progress to characterize the objective signal; false alarms may still occur (and are collected) with this version
--	Initial theories that looked for consistent events in the Objective Signal led to a high rate of false alarms; when I switched the approach to look for inconsistent events, the distinction between Other Signals and the Objective Signal became clearer
+-	The version included with this post makes progress to characterize the objective signal; false alarms may still occur (and are collected for further analysis) 
+-	Initial theories that looked for consistent events in the Objective Signal led to a high rate of false alarms; when I switched the approach to look for inconsistencies with Other Signals, the Objective Signal became clearer
 
-Read more in the pdf "Project Description."
+Read more in the pdf Project Description
