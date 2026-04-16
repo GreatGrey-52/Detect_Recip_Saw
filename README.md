@@ -1,5 +1,7 @@
 # Detect_Recip_Saw
 
+First iteration of project.  Please see "target-sound-classification" for the best results.
+
 PURPOSE AND DESCRIPTION:
 
 This project is intended to use Digital Signal Processing to Detect Catalytic Converter Theft.  The project started after a neighbor’s catalytic converter was stolen from the apartment parking lot.  Once that happened, I started researching Digital Signal Processing and signal detection.
